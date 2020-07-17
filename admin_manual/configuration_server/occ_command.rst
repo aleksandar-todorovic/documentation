@@ -198,6 +198,7 @@ The ``app`` commands list, enable, and disable apps::
   app:enable       enable an app
   app:getpath      Get an absolute path to the app directory
   app:list         List all available apps
+  app:remove       disable and remove an app
 
 List all of your installed apps, and show whether they are 
 enabled or disabled::
